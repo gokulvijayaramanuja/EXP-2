@@ -1,6 +1,6 @@
 ## EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
-NAME : GOKUL VIJAYA RAMANUJA P
-REG NO : 212222240030
+### NAME : GOKUL VIJAYA RAMANUJA P
+### REG NO : 212222240030
 ## Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 
