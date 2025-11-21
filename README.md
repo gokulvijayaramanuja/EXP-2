@@ -13,6 +13,11 @@ Sl .no	Apparatus	Range	Type	Quantity
 4	Rheostat		Wire wouned	1
 5	Rheostat		Wire wouned	1
 6	Connecting wires	-	-	As required
+## Circuit Diagram for Load test:
+<img width="957" height="272" alt="image" src="https://github.com/user-attachments/assets/6f75b7c2-d3f7-40a0-b9c0-1182ed598ccb" />
+
+## Circuit Diagram for Open Circuit Test:
+<img width="871" height="371" alt="image" src="https://github.com/user-attachments/assets/129d9705-2585-4f5a-9d4c-4f4f5e83bc7b" />
 
 ## Fuse rating calculation for field and armature:
 
